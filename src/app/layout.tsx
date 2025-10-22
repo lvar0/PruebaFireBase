@@ -9,6 +9,11 @@ import { LanguageProvider } from '@/hooks/use-language';
 export const metadata: Metadata = {
   title: 'FrikiFigures',
   description: 'Your one-stop shop for geeky figures!',
+  icons: {
+    icon: '/favicon.png',
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
+  },
 };
 
 export default function RootLayout({
