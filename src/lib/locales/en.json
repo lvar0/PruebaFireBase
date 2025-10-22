@@ -1,0 +1,49 @@
+{
+  "header": {
+    "admin": "Admin",
+    "ai_suggest": "AI Suggest",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Log out",
+    "admin_panel": "Admin Panel",
+    "ai_suggestions": "AI Suggestions"
+  },
+  "home": {
+    "title": "Figure Catalog",
+    "subtitle": "Explore our collection of figures from your favorite series.",
+    "no_figures": "No figures found. Please check back later or add new ones in the admin panel."
+  },
+  "footer": {
+    "built_by": "Built by Álvaro and Victor. Alianza blanca.",
+    "rights_reserved": "All Rights Reserved."
+  },
+  "figure_card": {
+    "add_to_cart": "Add to Cart"
+  },
+  "figures": {
+    "luffy": {
+      "description": "Incredible figure of Luffy in his most powerful form, Nika the Sun God."
+    },
+    "naruto": {
+      "description": "Naruto in Sage Mode, ready to face Pain. Includes Fukasaku and Shima."
+    },
+    "goku": {
+      "description": "Goku has broken his limits once again. The ultimate form against Jiren."
+    },
+    "vader": {
+      "description": "The iconic Sith Lord as he appeared in Episode IV. Light-up lightsaber feature."
+    },
+    "zoro": {
+      "description": "Zoro unleashing his powerful nine-sword style technique, Ashura."
+    },
+    "itachi": {
+      "description": "Itachi with his Akatsuki cloak, featuring interchangeable Mangekyo Sharingan eyes."
+    },
+    "vegeta": {
+      "description": "The Prince of all Saiyans in his divine Super Saiyan Blue form."
+    },
+    "boba": {
+      "description": "Boba Fett as he appears in The Mandalorian series, with his restored armor."
+    }
+  }
+}

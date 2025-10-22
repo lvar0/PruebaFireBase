@@ -1,0 +1,49 @@
+{
+  "header": {
+    "admin": "Admin",
+    "ai_suggest": "Sugerencia IA",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "admin_panel": "Panel de Admin",
+    "ai_suggestions": "Sugerencias IA"
+  },
+  "home": {
+    "title": "Catálogo de Figuras",
+    "subtitle": "Explora nuestra colección de figuras de tus series favoritas.",
+    "no_figures": "No se encontraron figuras. Por favor, vuelve más tarde o añade nuevas en el panel de administración."
+  },
+  "footer": {
+    "built_by": "Construidor por Álvaro y Victor. Alianza Blanca.",
+    "rights_reserved": "Todos los Derechos Reservados."
+  },
+  "figure_card": {
+    "add_to_cart": "Añadir al Carrito"
+  },
+  "figures": {
+    "luffy": {
+      "description": "Increíble figura de Luffy en su forma más poderosa, Nika el Dios del Sol."
+    },
+    "naruto": {
+      "description": "Naruto en Modo Sabio, listo para enfrentar a Pain. Incluye a Fukasaku y Shima."
+    },
+    "goku": {
+      "description": "Goku ha roto sus límites una vez más. La forma definitiva contra Jiren."
+    },
+    "vader": {
+      "description": "El icónico Lord Sith tal como apareció en el Episodio IV. Con sable de luz que se ilumina."
+    },
+    "zoro": {
+      "description": "Zoro desatando su poderosa técnica de nueve espadas, Ashura."
+    },
+    "itachi": {
+      "description": "Itachi con su capa de Akatsuki, con ojos Mangekyo Sharingan intercambiables."
+    },
+    "vegeta": {
+      "description": "El Príncipe de todos los Saiyans en su divina forma de Super Saiyan Blue."
+    },
+    "boba": {
+      "description": "Boba Fett tal como aparece en la serie The Mandalorian, con su armadura restaurada."
+    }
+  }
+}
